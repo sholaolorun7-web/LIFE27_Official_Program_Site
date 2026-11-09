@@ -1,0 +1,1 @@
+Replace polo.png, face-cap.png and headband.png with your official LIFE’27 product images. Keep the exact filenames.
